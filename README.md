@@ -27,4 +27,8 @@ Live Demo: [NN3D Visualizer](https://zeeem.github.io/NN3D-Visualizer/)
 [Hanming Li](https://www.linkedin.com/in/hanming-li-306b11199/)
 
 
+## Acknowledgements
+The code is based on the official code of [TensorFlow JS](https://github.com/tensorflow/tfjs-examples), as well as [TensorSpace Framework](https://github.com/tensorspace-team).
+
+
 If needed, please contact at rahmanje[at]ualberta[dot]ca, subho[at]ualberta[dot]ca, hanming[at]ualberta[dot]ca.
