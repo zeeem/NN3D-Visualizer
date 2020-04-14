@@ -11,8 +11,12 @@ Major dependencies are: Tensorflow JS, Keras and TensorSpace JS.
 
 ## Project Demo
 
-Live Demo: [NN3D Visualizer](http://162.246.156.116/804/index.html) 
+Live Demo: [NN3D Visualizer](https://zeeem.github.io/NN3D-Visualizer/) 
 
+
+## Visualizer Web Application
+
+![Web App](https://github.com/zeeem/NN3D-Visualizer/blob/master/img/ss_webapp.jpg)
 
 
 ## Developers
